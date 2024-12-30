@@ -1,2 +1,2 @@
 hello world
-this is me learning actual programming during the winter break
+this is me learning front-end programming during the winter break
